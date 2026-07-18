@@ -1,8 +1,7 @@
 <!-- Hero Banner Section -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" />
   
-  <img src="https://i.pinimg.com/originals/94/eb/b9/94ebb9eb3dbba23aee33486259ce3640.gif" alt="Cyberpunk Hacker Banner" width="100%" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Cyberpunk Hacker Banner" width="100%" style="border-radius: 15px;" />
   
   <br/><br/>
 
@@ -28,7 +27,9 @@
 </div>
 
 <br/>
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" /></div>
+<br/>
+---
+<br/>
 <br/>
 
 ## 👤 SYSTEM.INITIALIZE( "Introduction" );
@@ -52,7 +53,9 @@ I am a highly driven **Cybersecurity Researcher** and **Bug Bounty Hunter** spec
 - 💬 **Ask me about:** OSINT, Web Application Penetration Testing, Python Automation.
 
 <br/>
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" /></div>
+<br/>
+---
+<br/>
 <br/>
 
 ## 💻 SYSTEM.MODULES( "Tech Stack & Tools" );
@@ -88,7 +91,9 @@ I am a highly driven **Cybersecurity Researcher** and **Bug Bounty Hunter** spec
 </div>
 
 <br/>
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" /></div>
+<br/>
+---
+<br/>
 <br/>
 
 ## 📊 SYSTEM.METRICS( "GitHub Statistics" );
@@ -123,7 +128,9 @@ I am a highly driven **Cybersecurity Researcher** and **Bug Bounty Hunter** spec
 </div>
 
 <br/>
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" /></div>
+<br/>
+---
+<br/>
 <br/>
 
 ## 🚀 SYSTEM.EXECUTE( "Featured Projects" );
@@ -162,7 +169,9 @@ I am a highly driven **Cybersecurity Researcher** and **Bug Bounty Hunter** spec
 </table>
 
 <br/>
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" /></div>
+<br/>
+---
+<br/>
 <br/>
 
 ## 🏆 SYSTEM.RECORDS( "Achievements & Research" );
@@ -197,7 +206,9 @@ I am a highly driven **Cybersecurity Researcher** and **Bug Bounty Hunter** spec
 </details>
 
 <br/>
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" /></div>
+<br/>
+---
+<br/>
 <br/>
 
 ## 📡 SYSTEM.MONITOR( "Activity & Media" );
@@ -229,7 +240,9 @@ I am a highly driven **Cybersecurity Researcher** and **Bug Bounty Hunter** spec
 * 📌 **Pinned Repos:** Check out my pinned repositories below for my best work!
 
 <br/>
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" /></div>
+<br/>
+---
+<br/>
 <br/>
 
 ## 👾 SYSTEM.EASTEREGGS( "Fun Facts & Quotes" );
@@ -245,7 +258,9 @@ I am a highly driven **Cybersecurity Researcher** and **Bug Bounty Hunter** spec
 > **Fun Fact:** When I'm not breaking applications, I'm probably building one, tweaking my Linux rice, or hunting for the next big CVE. 
 
 <br/>
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" /></div>
+<br/>
+---
+<br/>
 <br/>
 
 ## 📞 SYSTEM.CONNECT( "Contact & Support" );
