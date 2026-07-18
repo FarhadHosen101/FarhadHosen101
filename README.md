@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Minimalist Clean Header -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=58a6ff&height=150&section=header&text=Farhad%20Hosen&fontSize=70&fontColor=ffffff&desc=Cybersecurity%20Researcher%20%7C%20Bug%20Bounty%20Hunter&descAlignY=75&descAlign=62" />
+  <!-- Custom Animated Banner -->
+  <img src="https://raw.githubusercontent.com/FarhadHosen101/FarhadHosen101/main/assets/banner.gif" alt="Cyberpunk Banner" width="100%" style="border-radius: 15px;" />
 
   <br/>
   
